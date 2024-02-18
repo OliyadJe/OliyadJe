@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oliyad
 - 👀 I’m interested in Metagenomics, Microbial Ecology, Extremophiles 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Metagenomics 
+- 📫 How to reach me ...email 
 - 😄 Pronouns: ...
   
 
